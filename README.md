@@ -19,6 +19,7 @@ Protected API Routes
 🛠 Tech Stack
 
 Frontend: React, Vite, React Router, Context API, Recharts
+
 Backend: Node.js, Express.js, MongoDB, Mongoose
 Auth & Security: JWT, bcryptjs, CORS, dotenv
 
